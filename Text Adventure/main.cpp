@@ -7,6 +7,7 @@ int main(){
 
 
 	cout << "Hello darkness, my old friend.";
+	cout << "Final test of git";
 
 	cin >> end;
 	return 0;
