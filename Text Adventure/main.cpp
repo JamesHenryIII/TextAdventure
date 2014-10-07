@@ -6,7 +6,7 @@ int main(){
 	int end;
 
 
-	cout << "Hello world!";
+	cout << "Hello darkness, my old friend.";
 
 	cin >> end;
 	return 0;
